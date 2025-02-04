@@ -1,6 +1,6 @@
 import { type UUID, type Character } from "@elizaos/core";
 
-const BASE_URL = "http://agent2.eliza.elizatest.sbs/";
+const BASE_URL = "http://agent2.eliza.elizatest.sbs";
 
 const fetcher = async ({
     url,
